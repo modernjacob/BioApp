@@ -1,6 +1,5 @@
 # BioInformatics // DNA Nucleatide Sequence
-# Streamlit Project 
-# Terminal // cd Desktop/Code/Projects/BioApp // streamlit run dna-app.py
+# This project was coded along the https://youtu.be/JwSS70SZdyM video
 
 from operator import index
 import pandas as pd
